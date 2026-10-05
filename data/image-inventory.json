@@ -1,0 +1,79 @@
+[
+  {
+    "originalFile": "image1.jpg",
+    "suggestedName": "fresh-vegetable-prep.jpg",
+    "content": "Sliced tomatoes, onions, lettuce and peppers on a prep plate",
+    "title": "Vegetable preparation",
+    "websiteUse": "Supporting gallery"
+  },
+  {
+    "originalFile": "image3.jpg",
+    "suggestedName": "chicken-noodles-and-eggs.jpg",
+    "content": "Chicken pieces with noodles and two boiled eggs in a black takeaway tray",
+    "title": "Chicken & noodles",
+    "websiteUse": "Featured dish"
+  },
+  {
+    "originalFile": "image4.jpg",
+    "suggestedName": "loaded-griddle-cooking.jpg",
+    "content": "Chopped food with sauce cooking on a flat-top griddle; individual ingredients uncertain",
+    "title": "On the griddle",
+    "websiteUse": "About"
+  },
+  {
+    "originalFile": "image5.jpg",
+    "suggestedName": "burgers-on-the-griddle.jpg",
+    "content": "Three burgers with patties, lettuce and tomato on a griddle",
+    "title": "Griddle burgers",
+    "websiteUse": "Hero"
+  },
+  {
+    "originalFile": "image6.jpg",
+    "suggestedName": "burgers-and-loaded-hot-dogs.jpg",
+    "content": "Burgers and loaded hot dogs in foil",
+    "title": "Burgers & hot dogs",
+    "websiteUse": "Featured dish"
+  },
+  {
+    "originalFile": "image7.jpg",
+    "suggestedName": "loaded-burger-closeup.jpg",
+    "content": "Tall sesame bun burger with cheese, vegetables and layered fillings",
+    "title": "Loaded burger",
+    "websiteUse": "Menu"
+  },
+  {
+    "originalFile": "image8.jpg",
+    "suggestedName": "cheeseburgers-closeup.jpg",
+    "content": "Close-up of burgers with patties, cheese, lettuce and tomato",
+    "title": "Cheeseburgers",
+    "websiteUse": "Gallery"
+  },
+  {
+    "originalFile": "image9.jpg",
+    "suggestedName": "toasted-sandwich-stack.jpg",
+    "content": "Toasted sandwich with a browned filling and vegetables",
+    "title": "Toasted sandwich",
+    "websiteUse": "Menu"
+  },
+  {
+    "originalFile": "image10.jpg",
+    "suggestedName": "fruit-drinks.jpg",
+    "content": "Two pink-orange fruit drinks in branded cups beside apples and strawberries; label has contact numbers that differ from supplied business phone",
+    "title": "Fruit drinks",
+    "websiteUse": "Menu"
+  },
+  {
+    "originalFile": "two.jpg",
+    "suggestedName": "open-air-griddle-station.jpg",
+    "content": "Outdoor cooking station with sausages, chopped food and utensils beneath umbrellas",
+    "title": "At the grill",
+    "websiteUse": "About / gallery"
+  },
+  {
+    "originalFile": "logo.jpeg",
+    "suggestedName": "gourmet-grillz-logo.jpg",
+    "content": "Red, green, white and black Gourmet Grillz logo with chef illustration and crossed utensils",
+    "title": "Gourmet Grillz",
+    "websiteUse": "Header / footer"
+  }
+]
